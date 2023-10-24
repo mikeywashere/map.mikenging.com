@@ -54,7 +54,7 @@ var playersData = {
     },
     {
       "uuid": "906192aa-eee2-4e2f-ad91-c51e14f9beba",
-      "name": "Player 90619",
+      "name": "Eemaymah",
       "dimensionId": 0,
       "position": [
         949.9415,
@@ -66,7 +66,7 @@ var playersData = {
     },
     {
       "uuid": "a1b1a8ca-e350-4784-a3ae-ab7f840afbe9",
-      "name": "Player a1b1a",
+      "name": "Mikey Was Here",
       "dimensionId": 0,
       "position": [
         989.5,
