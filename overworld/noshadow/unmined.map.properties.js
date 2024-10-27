@@ -6,8 +6,8 @@ var UnminedMapProperties = {
     imageFormat: "webp",
     minRegionX: -17,
     minRegionZ: -17,
-    maxRegionX: 12,
-    maxRegionZ: 13,
+    maxRegionX: 22,
+    maxRegionZ: 19,
     worldName: "Hard",
     background: "",
     markers: new Array()
